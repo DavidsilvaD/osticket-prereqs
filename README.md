@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Download Installation files 
 - Install / Enable IIS in Windows with CGI
 - Install osTicket 
-- Configure Osticket / setup users  
+- Configure Osticket / Setup Users / Admin and Agent  
 
 <h2>Installation Steps</h2>
 
